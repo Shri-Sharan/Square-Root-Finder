@@ -1,6 +1,9 @@
 You can directlly run the file and enter input in cmd line or import it and call the function on any +ve integer.
-print(square_root()) # takes user input
+
+print(square_root()) # takes user input 
+
 or use
+
 print(square_root(100000)) # calls function on argument passed
 
 
