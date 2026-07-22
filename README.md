@@ -1,5 +1,5 @@
 You can directlly run the file and enter input in cmd line or import it and call the function on any +ve integer.
-Everything written is 100% human and uses Long Division Method manually like how humans find square roots instead of using Newton's formula.
+Everything written is 100% human, 0% Ai and the code uses Long Division Method manually like how humans find square roots instead of using Newton's formula.
 
 print(square_root()) # takes user input 
 
